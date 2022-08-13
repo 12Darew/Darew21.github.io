@@ -1,0 +1,472 @@
+/*
+	@name desktop___1
+*/
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 1440px; width: 1440px; height: 2083px; overflow: hidden; display: block;  margin-left: auto; margin-right: auto;  }
+
+
+#page_desktop___1_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2083px;
+}
+
+#_bg__desktop___1_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 1440px;
+	height: 2083px;
+	background:rgba(255,255,255,1);
+}
+
+
+#business {
+	top: 143px;
+	left: 276px;
+	width: 245px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#logo_here {
+	top: 191px;
+	left: 276px;
+	width: 165px;
+	height: 46px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 24px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#rectangle_1 {
+	top: 182px;
+	left: 685px;
+	width: 636px;
+	height: 592px;
+}
+
+
+#rectangle_2 {
+	opacity:0.75999999046326;
+	top: 586px;
+	left: 519px;
+	width: 432.62px;
+	height: 488.33px;
+	-ms-border-radius: 122px;
+	-o-border-radius: 122px;
+	-moz-border-radius: 122px;
+	-webkit-border-radius: 122px;
+	border-radius: 122px;
+	
+	-ms-transform:rotate(-89.42deg);
+	-o-transform:rotate(-89.42deg);
+	-webkit-transform:rotate(-89.42deg);
+	-moz-transform:rotate(-89.42deg);
+	transform:rotate(-89.42deg);
+	background:rgba(215,62,108,0.76);
+}
+
+
+#rectangle_3 {
+	top: 1295px;
+	left: 468px;
+	width: 438.85px;
+	height: 375.02px;
+	-ms-border-radius: 86px;
+	-o-border-radius: 86px;
+	-moz-border-radius: 86px;
+	-webkit-border-radius: 86px;
+	border-radius: 86px;
+	
+	-ms-transform:rotate(-89.42deg);
+	-o-transform:rotate(-89.42deg);
+	-webkit-transform:rotate(-89.42deg);
+	-moz-transform:rotate(-89.42deg);
+	transform:rotate(-89.42deg);
+	background:rgba(0,0,0,1);
+}
+
+
+#provide_you_finest_idea__ {
+	top: 695px;
+	left: 552px;
+	width: 323px;
+	height: 124px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector_1 {
+	top: 143px;
+	left: 662px;
+	width: 231px;
+	height: 236.1px;
+}
+
+
+#vector_2 {
+	top: 577px;
+	left: 1142px;
+	width: 231px;
+	height: 236.1px;
+}
+
+
+#we_can {
+	top: 647px;
+	left: 552px;
+	width: 183px;
+	height: 76px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 40px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#vector_3 {
+	top: 791px;
+	left: 720px;
+	width: 94px;
+	height: 0px;
+}
+
+
+#lorem_ipsum_is_simply_dummy_text_of_the_printing_and_typesetting_industry__unknown_printer_took_a_galley_of_type_it_to_make_a_type_specimen_book_ {
+	top: 830px;
+	left: 546px;
+	width: 604px;
+	height: 86px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#ellipse_1 {
+	top: 1343px;
+	left: 219px;
+	width: 126px;
+	height: 126px;
+	-ms-border-radius: 63px / 63px;
+	-o-border-radius: 63px / 63px;
+	-moz-border-radius: 63px / 63px;
+	-webkit-border-radius: 63px / 63px;
+	border-radius: 63px / 63px;
+	background:rgba(221,60,109,1);
+}
+
+
+#ellipse_2 {
+	top: 1356px;
+	left: 619px;
+	width: 126px;
+	height: 126px;
+	-ms-border-radius: 63px / 63px;
+	-o-border-radius: 63px / 63px;
+	-moz-border-radius: 63px / 63px;
+	-webkit-border-radius: 63px / 63px;
+	border-radius: 63px / 63px;
+	background:rgba(221,60,109,1);
+}
+
+
+#ellipse_3 {
+	top: 1362px;
+	left: 1032px;
+	width: 126px;
+	height: 126px;
+	-ms-border-radius: 63px / 63px;
+	-o-border-radius: 63px / 63px;
+	-moz-border-radius: 63px / 63px;
+	-webkit-border-radius: 63px / 63px;
+	border-radius: 63px / 63px;
+	background:rgba(221,60,109,1);
+}
+
+
+#is_simply_dummy_text_of_the_printing_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard {
+	top: 1540px;
+	left: 478px;
+	width: 411px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#is_simply_dummy_text_of_the_printing_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard_ek1 {
+	top: 1545px;
+	left: 893px;
+	width: 411px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#is_simply_dummy_text_of_the_printing_typesetting_industry__lorem_ipsum_has_been_the_industry_s_standard_ek2 {
+	top: 1540px;
+	left: 103px;
+	width: 411px;
+	height: 68px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#ampoule_blanc_1 {
+	top: 1362px;
+	left: 235px;
+	width: 95px;
+	height: 88px;
+}
+
+
+#ordinateur_blanc_1 {
+	top: 1380px;
+	left: 642px;
+	width: 78px;
+	height: 78px;
+}
+
+
+#megaphone_blanc_1 {
+	top: 1381px;
+	left: 1050px;
+	width: 90px;
+	height: 90px;
+}
+
+
+#phone_call_1 {
+	top: 1860px;
+	left: 143px;
+	width: 93px;
+	height: 89px;
+}
+
+
+#gen_in_touch {
+	top: 1841px;
+	left: 236px;
+	width: 269px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#__000_1234_5678 {
+	top: 1880px;
+	left: 243px;
+	width: 300px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#vector_5 {
+	top: 1925px;
+	left: 247px;
+	width: 271px;
+	height: 0px;
+}
+
+
+#rectangle_4 {
+	top: 1815px;
+	left: 547px;
+	width: 893px;
+	height: 208px;
+	background:rgba(194.44,192.01,192.01,1);
+}
+
+
+#email_1 {
+	top: 1839px;
+	left: 571px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#globe__1__1 {
+	top: 1938px;
+	left: 571px;
+	width: 48px;
+	height: 48px;
+}
+
+
+#name_gmail_com {
+	top: 1841px;
+	left: 641px;
+	width: 302px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#www_namesite_com {
+	top: 1942px;
+	left: 641px;
+	width: 330px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#telephone_1 {
+	top: 1833px;
+	left: 996px;
+	width: 47px;
+	height: 47px;
+}
+
+
+#pin_1 {
+	top: 1934px;
+	left: 996px;
+	width: 47px;
+	height: 47px;
+}
+
+
+#__000_1234_5678_ek1 {
+	top: 1841px;
+	left: 1065px;
+	width: 285px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#street__city_1234 {
+	top: 1929px;
+	left: 1065px;
+	width: 298px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	text-align: left;
+	color:#000000;
+}
+
+
+#png_clipart_red_and_white_a_logo_triangle_area_text_app_adobe_update_angle_text_photoroom_1 {
+	top: 127px;
+	left: 103px;
+	width: 193px;
+	height: 110px;
+}
+
+
+#lorem_ipsum {
+	top: 980px;
+	left: -148px;
+	width: 240px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+
+
+#lorem_ipsum_ek1 {
+	top: 969px;
+	left: -519px;
+	width: 240px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#lorem_ipsum_ek2 {
+	top: 989px;
+	left: 281px;
+	width: 240px;
+	height: 61px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+
+
+#vector_4 {
+	top: -52.7px;
+	left: -2592px;
+	width: 124px;
+	height: 132.7px;
+}
+
+
+
+/* Add your custom CSS here */
